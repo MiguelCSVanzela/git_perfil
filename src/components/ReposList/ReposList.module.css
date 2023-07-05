@@ -27,3 +27,14 @@
     cursor: pointer; 
     text-decoration: none;
 }
+
+.erro{
+    color: #d26a6a; 
+    font-size: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 1px solid #d26a6a;
+    border-radius: 15px;
+    padding: 5px;
+
+}
